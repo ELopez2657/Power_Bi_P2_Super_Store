@@ -4,11 +4,14 @@ The company Superstore is looking to come up with a business plan to increase sa
 
 Results:
 
-![image](https://github.com/ELopez2657/Power_Bi_P2_Super_Store/assets/146747798/0d880f0a-07b6-4898-b4c1-1ac0550dc634)
+![image](https://github.com/ELopez2657/Power_Bi_P2_Super_Store/assets/146747798/9b8ac971-13e3-442e-b5f9-0ded8ed97493)
 
 
 
-![image](https://github.com/ELopez2657/Power_Bi_P2_Super_Store/assets/146747798/f560dc5b-efb9-4cd8-8a10-48592e10b4fd)
+![image](https://github.com/ELopez2657/Power_Bi_P2_Super_Store/assets/146747798/47af2339-48a9-4168-b58a-a328b149d9ad)
+
+
+
 
 
 Conclusion:
